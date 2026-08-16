@@ -11,20 +11,28 @@ Estudante de Análise e Desenvolvimento de Sistemas (UCS), atuando com Business 
 
 ## Tecnologias que uso no dia a dia
 
+**Linguagens de Programação**
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/DAX-107C41?style=for-the-badge" />
+</p>
+
+**Banco de Dados**
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Fabric-1A73E8?style=for-the-badge" />
+</p>
+
+**Ferramentas**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-## Projetos em destaque
-
-**[fabric-industria-iot-oee](https://github.com/GuilhermeRostirolla/fabric-industria-iot-oee)** — Pipeline end-to-end no Microsoft Fabric simulando uma fábrica de móveis com sensores IoT: ingestão em tempo real via Eventstream, arquitetura Medallion (Bronze/Silver/Gold), cálculo de OEE e manutenção preditiva, com visualização em Power BI Direct Lake.
 
 ## Estatísticas do GitHub
 
