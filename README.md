@@ -2,12 +2,15 @@
 <h3 align="center">Assistente de Inovação e Transformação Digital | Dados, Automação e Power BI</h3>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas (UCS), atuando com Business Intelligence, automação de processos e engenharia de dados no Grupo Bertolini. Gosto de transformar dado bruto em decisão de negócio — e processo manual em automação.
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/guilherme-rostirolla-923017263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UCS)
+- 📊 Assistente de Inovação e Transformação Digital no Grupo Bertolini
+- 🐍 Aprofundando Python para transformação e extração de dados
+- 📈 Power BI, DAX e Power Query no dia a dia para Business Intelligence
+- ☁️ Atuando com Microsoft Fabric (Lakehouse, Pipelines, Notebooks)
+- 🔧 Automação de processos com Power Apps e Power Automate
 
 ## Tecnologias que uso no dia a dia
 
@@ -39,4 +42,16 @@ Estudante de Análise e Desenvolvimento de Sistemas (UCS), atuando com Business 
 <p align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRostirolla&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRostirolla&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=GuilhermeRostirolla&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+💬 Vamos conversar sobre dados e automação? Me chama no <a href="https://www.linkedin.com/in/guilherme-rostirolla-923017263/">LinkedIn</a>.
+<br/>
+<i>Transformando processo manual em automação, um dashboard de cada vez.</i>
 </p>
