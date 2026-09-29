@@ -6,7 +6,6 @@
 </p>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UCS)
-- 📊 Assistente de Inovação e Transformação Digital no Grupo Bertolini
 - 🐍 Aprofundando Python para transformação e extração de dados
 - 📈 Power BI, DAX e Power Query no dia a dia para Business Intelligence
 - ☁️ Atuando com Microsoft Fabric (Lakehouse, Pipelines, Notebooks)
