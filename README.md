@@ -1,6 +1,15 @@
 ## Olá, eu sou o Guilherme
 
-Trabalho com **Inovação e Transformação Digital** no Grupo Bertolini, em Bento Gonçalves (RS). Meu dia a dia é transformar processo manual em dado confiável e dado confiável em decisão: modelagem em SQL, ETL com Python e Microsoft Fabric, painéis em Power BI e automações com Power Platform.
+Analista de dados com foco em **Business Intelligence e automação de processos**, de Bento Gonçalves (RS).
+
+Atuei na área de **Inovação e Transformação Digital do Grupo Bertolini**, onde levei processos que viviam em planilha e e-mail para dados estruturados e painéis de acompanhamento. Na prática, isso envolveu:
+
+- **Modelagem de dados** em SQL (star schema, views para consumo no BI).
+- **ETL** com Python e Microsoft Fabric (Lakehouse, Pipelines, Notebooks).
+- **Dashboards** em Power BI com DAX, Power Query e controle de acesso por RLS.
+- **Automações** com Power Apps e Power Automate, tirando etapas manuais do caminho.
+
+Gosto de problemas em que o dado existe, mas ninguém confia nele ou consegue enxergá-lo. Meu trabalho é organizar a base, garantir a qualidade e entregar uma visão que ajude a decidir.
 
 Estudante de Análise e Desenvolvimento de Sistemas na UCS.
 
@@ -34,5 +43,5 @@ Painel de gestão de um programa de ideias e melhoria contínua: funil de etapas
 
 ## No que estou trabalhando
 
-- Lakehouse no Microsoft Fabric com camadas bronze, silver e gold (notebooks PySpark e pipelines).
-- Automação de processos internos com Power Apps e Power Automate.
+- Projeto de Lakehouse no Microsoft Fabric com camadas bronze, silver e gold (notebooks PySpark e pipelines).
+- Aprofundando Python para análise de dados.
