@@ -1,56 +1,38 @@
-<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
-<h3 align="center">Assistente de Inovação e Transformação Digital | Dados, Automação e Power BI</h3>
+## Olá, eu sou o Guilherme
 
-<p align="center">
-<a href="https://www.linkedin.com/in/guilherme-rostirolla-923017263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+Trabalho com **Inovação e Transformação Digital** no Grupo Bertolini, em Bento Gonçalves (RS). Meu dia a dia é transformar processo manual em dado confiável e dado confiável em decisão: modelagem em SQL, ETL com Python e Microsoft Fabric, painéis em Power BI e automações com Power Platform.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UCS)
-- 🐍 Aprofundando Python para transformação e extração de dados
-- 📈 Power BI, DAX e Power Query no dia a dia para Business Intelligence
-- ☁️ Atuando com Microsoft Fabric (Lakehouse, Pipelines, Notebooks)
-- 🔧 Automação de processos com Power Apps e Power Automate
+Estudante de Análise e Desenvolvimento de Sistemas na UCS.
 
-## Tecnologias que uso no dia a dia
+<a href="https://www.linkedin.com/in/guilherme-rostirolla-923017263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-**Linguagens de Programação**
+## Projeto em destaque
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-107C41?style=for-the-badge" />
-</p>
+### [Painel de Ideias · Python + SQL Server + Power BI](https://github.com/GuilhermeRostirolla/painel-ideias-powerbi)
 
-**Banco de Dados**
+Painel de gestão de um programa de ideias e melhoria contínua: funil de etapas, SLA, retorno financeiro e engajamento de 6 empresas. Os dados são 100% fictícios e vêm de um simulador em Python que reproduz o ciclo de vida real de cada ideia.
 
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Fabric-1A73E8?style=for-the-badge" />
-</p>
+<a href="https://github.com/GuilhermeRostirolla/painel-ideias-powerbi"><img src="https://raw.githubusercontent.com/GuilhermeRostirolla/painel-ideias-powerbi/main/docs/img/painel.gif" alt="Tour pelo Painel de Ideias" width="720"></a>
 
-**Ferramentas**
+- **Simulador em Python** (pandas, NumPy): máquina de estados com durações lognormais, retrabalho e reprovações. A mesma semente gera o mesmo banco.
+- **SQL Server em star schema** (`dw`) com views para o BI (`bi`) e checagens de qualidade.
+- **Power BI em PBIP/TMDL**: modelo versionado no Git, DAX, RLS com um papel por empresa.
+- **58 testes** com `pytest`, lint com `ruff` e CI no GitHub Actions.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## Stack
 
-## Estatísticas do GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-1F4E5F?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-2F7A8C?style=flat-square)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRostirolla&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRostirolla&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## No que estou trabalhando
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=GuilhermeRostirolla&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-💬 Vamos conversar sobre dados e automação? Me chama no <a href="https://www.linkedin.com/in/guilherme-rostirolla-923017263/">LinkedIn</a>.
-<br/>
-<i>Transformando processo manual em automação, um dashboard de cada vez.</i>
-</p>
+- Lakehouse no Microsoft Fabric com camadas bronze, silver e gold (notebooks PySpark e pipelines).
+- Automação de processos internos com Power Apps e Power Automate.
