@@ -10,6 +10,16 @@ Estudante de Análise e Desenvolvimento de Sistemas na UCS. Busco oportunidades 
 
 ## Projetos
 
+<a href="https://github.com/GuilhermeRostirolla/precos-combustiveis-fabric">
+  <img src="https://raw.githubusercontent.com/GuilhermeRostirolla/precos-combustiveis-fabric/main/docs/img/repasse.jpg" alt="Da refinaria à bomba no RS">
+</a>
+
+### [Da refinaria à bomba no RS](https://github.com/GuilhermeRostirolla/precos-combustiveis-fabric)
+
+Quanto de cada reajuste da refinaria chega ao posto no Rio Grande do Sul, e em quanto tempo? Pipeline semanal no Microsoft Fabric com dados públicos da ANP (3 milhões de coletas de preço), warehouse em T-SQL, estudo de eventos do repasse conferido por uma reimplementação independente em Python, e relatório Power BI gerado por código. Resultado: na gasolina, as altas chegam inteiras ao posto em uma semana; nas baixas, menos de 40% chega em duas.
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square" alt="Data Factory"> <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square" alt="T-SQL"> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -42,9 +52,11 @@ Estudante de Análise e Desenvolvimento de Sistemas na UCS. Busco oportunidades 
   </tr>
 </table>
 
-### Em construção
+### [Pipeline de dados do Banco Central no Databricks](https://github.com/GuilhermeRostirolla/pipeline-bcb-databricks)
 
-**Pipeline de dados do Banco Central no Databricks**: séries de Selic, IPCA e dólar, taxas de juros por instituição e Boletim Focus, em arquitetura medallion com carga incremental, quarentena e verificações automáticas de qualidade.
+Séries de Selic, IPCA e dólar, taxas de juros por instituição e Boletim Focus, em arquitetura medalhão com carga incremental, quarentena, verificações automáticas de qualidade e job agendado.
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"> <img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square" alt="Delta Lake"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
 
 ## Ferramentas
 
